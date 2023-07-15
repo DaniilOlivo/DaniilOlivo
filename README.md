@@ -4,7 +4,7 @@
 
 <h1 align="center">
     Hi, I'm 
-    <a href="https://daniil-kiselev.ru/" target="_blank">Daniil</a>
+    <a href="https://daniilolivo.github.io/portfolio/" target="_blank">Daniil</a>
 </h1>
 
 <div align="center">
